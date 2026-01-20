@@ -38,7 +38,7 @@ Jag gillar att bygga **lösningar från början till slut** – från idé och a
 ## 📫 Kontakt
 
 💼 [LinkedIn](https://www.linkedin.com/in/)  
-📧 linden.91-pl@gmail.com  
+📧 paul.linden@lindentechlabs.com  
 
 ---
 
