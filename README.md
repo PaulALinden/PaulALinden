@@ -7,7 +7,6 @@ Jag gillar att bygga **lösningar från början till slut** – från idé och a
 
 ## 🧩 Om mig
 
-- 🎓 Studerar **Information Systems Science** vid *Luleå Tekniska Universitet*  
 - 🎓 Java Developer YH-examen från *Grit Academy*  
 - 🎓 YH-studier i **Embedded Systems Development** (C/C++, RTOS, CAN, SPI, säkerhetskritiska system)  
 
